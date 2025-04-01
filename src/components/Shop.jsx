@@ -39,7 +39,7 @@ const Shop = () => {
             <p>Adidas</p>
           </div>
           <div className="image group-hover:scale-105 group-hover:-rotate-10 transform transition duration-300 ease-in-out">
-            <img src="./src/assets/shoes.jpg" alt="shoes" />
+            <img src="./src/assets/shoes2.jpg" alt="shoes" />
           </div>
           <div className="info">
             <div className="prodName text-3xl">Varsity</div>
@@ -67,7 +67,7 @@ const Shop = () => {
             <p>Adidas</p>
           </div>
           <div className="image group-hover:scale-105 group-hover:-rotate-10 transform transition duration-300 ease-in-out">
-            <img src="./src/assets/shoes.jpg" alt="shoes" />
+            <img src="./src/assets/shoes3.jpg" alt="shoes" />
           </div>
           <div className="info">
             <div className="prodName text-3xl">Varsity</div>
@@ -95,7 +95,7 @@ const Shop = () => {
             <p>Adidas</p>
           </div>
           <div className="image group-hover:scale-105 group-hover:-rotate-10 transform transition duration-300 ease-in-out">
-            <img src="./src/assets/shoes.jpg" alt="shoes" />
+            <img src="./src/assets/shoes4.jpg" alt="shoes" />
           </div>
           <div className="info">
             <div className="prodName text-3xl">Varsity</div>
